@@ -1,0 +1,12 @@
+streamlit==1.37.0
+fastapi==0.111.0
+uvicorn==0.30.0
+groq
+python-dotenv
+pandas
+bcrypt
+streamlit-lottie
+requests
+Pillow
+opencv-python
+numpy
